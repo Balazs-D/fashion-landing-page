@@ -1,6 +1,8 @@
 # Fashion Brand - Landing Page
 
-By [Balazs Danyadi](https://www.linkedin.com/in/balazs-danyadi/) - [Visit Page](https://fashion-landing-page.vercel.app/)
+By [Balazs Danyadi](https://www.linkedin.com/in/balazs-danyadi/)
+
+[Visit Page](https://fashion-landing-page.vercel.app/)
 
 ## Instructions
 
@@ -15,7 +17,7 @@ By [Balazs Danyadi](https://www.linkedin.com/in/balazs-danyadi/) - [Visit Page](
 - CSS / Sass
 - Bootstrap
 
-## Feature
+## Features
 
 - E-Mail validation
 - Responsive Design (Desktop, Mobile)
