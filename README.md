@@ -1,6 +1,6 @@
 # Fashion Brand - Landing Page
 
-By [Balazs Danyadi](https://www.linkedin.com/in/balazs-danyadi/)
+By [Balazs Danyadi](https://www.linkedin.com/in/balazs-danyadi/) - [Visit Page](https://fashion-landing-page.vercel.app/)
 
 ## Instructions
 
