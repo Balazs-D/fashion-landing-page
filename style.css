@@ -86,8 +86,8 @@ form {
     max-width: 800;
     object-fit: cover;
     object-position: 50% 30%;
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
   }
 
   .blackBox {
@@ -98,8 +98,8 @@ form {
     justify-content: flex-end;
     height: 100%;
     width: 50%;
-    border-top-right-radius: 5%;
-    border-bottom-right-radius: 5%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
   }
   .blackBox #catcher {
     font-size: 2vw;

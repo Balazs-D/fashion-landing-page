@@ -72,31 +72,6 @@ form {
     padding: 10;
     position: relative;
     padding: 2%;
-
-    // &:after {
-    //   content: "";
-    //   position: absolute;
-    //   z-index: 10;
-    //   width: 150px;
-    //   height: 150px;
-    //   background-color: white;
-
-    //   left: 50%;
-    //   top: -5%;
-    //   transform: translate(-50%, -50%) rotate(45deg);
-    // }
-    // &:before {
-    //   content: "";
-    //   position: absolute;
-    //   z-index: 10;
-    //   width: 150px;
-    //   height: 150px;
-    //   background-color: white;
-    //   border-radius: 25%;
-    //   left: 50%;
-    //   top: 105%;
-    //   transform: translate(-50%, -50%) rotate(45deg);
-    // }
   }
 
   form {
@@ -112,8 +87,8 @@ form {
     max-width: 800;
     object-fit: cover;
     object-position: 50% 30%;
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
   }
 
   .blackBox {
@@ -124,8 +99,8 @@ form {
     justify-content: flex-end;
     height: 100%;
     width: 50%;
-    border-top-right-radius: 5%;
-    border-bottom-right-radius: 5%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
 
     #catcher {
       font-size: 2vw;
