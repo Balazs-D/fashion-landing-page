@@ -21,12 +21,18 @@ body {
   height: 100%;
   width: 100%;
   max-width: 800;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: 50% -100%;
 }
 
 .desktop {
   flex-direction: row;
   justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin-bottom: 20%;
 }
 
 .text {
